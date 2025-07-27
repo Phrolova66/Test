@@ -16,7 +16,7 @@ jobs:
           node-version: '20'
 
       - name: Install
-        run: npm install yaml -g
+        run: npm install yaml
 
       - name: Run
         run: |
