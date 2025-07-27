@@ -1,0 +1,40 @@
+name: fix-yaml
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fix-yaml:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install
+        run: npm install yaml -g
+
+      - name: Run
+        run: |
+          curl -o raw.yaml https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/clash-meta/actives_under_1000ms.yaml
+
+          node << 'EOF'
+          const YAML = require('yaml');
+          const fs = require('fs');
+          const file = fs.readFileSync('raw.yaml', 'utf8');
+          const data = YAML.parse(file);
+          fs.writeFileSync('test.yaml', YAML.stringify(data));
+          EOF
+
+      - name: Upload
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+          git add test.yaml
+          git commit -m "The servers have been updated✔ - $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')"
+          git push origin master
