@@ -1,453 +1,7 @@
 proxies:
-  - uuid: 3891b3ce-bb3a-45bf-bd8e-90e2487d121e
-    server: wouldyoumarriemepleasefuckthesystem4.siasia.ir
-    name: 184fd5c525104991b52f40a728f05805_@_@meli_proxyy
-    type: vless
-    port: 2053
-    network: ws
-    tls: true
-    udp: false
-    client-fingerprint: randomized
-    servername: hheydudethisworldisshet.siasia.ir
-    fingerprint: ""
-    ws-opts:
-      headers:
-        host: hheydudethisworldisshet.siasia.ir
-      path: /apiii
-  - uuid: 3891b3ce-bb3a-45bf-bd8e-90e2487d121e
-    server: wouldyoumarriemepleasefuckthesystem5.siasia.ir
-    name: fb1d1b62f75d46778f62595196135be1_@_@meli_proxyy`
-    type: vless
-    port: 2053
-    network: ws
-    tls: true
-    udp: false
-    client-fingerprint: randomized
-    servername: hheydudethisworldisshet.siasia.ir
-    fingerprint: ""
-    ws-opts:
-      headers:
-        host: hheydudethisworldisshet.siasia.ir
-      path: /apiii
-  - uuid: e03adb18-3982-4128-8035-a39f4afc5d95
-    server: 104.17.148.22
-    name: 4b4da036fe064b33a18c6c37bb46f483_@_@Hope_Net-join-us-on-Telegram
-    type: vless
-    port: 8880
-    network: ws
-    tls: false
-    udp: false
-    client-fingerprint: chrome
-    fingerprint: ""
-    ws-opts:
-      path: "@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--\
-        @Maznet--@Maznet?ed"
-  - uuid: e9979910-79d1-4621-a93c-b2a579c44ba7
-    server: 172.67.65.158
-    name: 5e69f2f9539541d7a129c1c5d60b1b6f_@_@meli_proxyy
-    type: vless
-    port: 8880
-    network: ws
-    tls: false
-    udp: false
-    client-fingerprint: chrome
-    fingerprint: ""
-    ws-opts:
-      path: /Etb1L6YUdZFZuTOr?ed=#/v2ray_configs_pools/ed=2560
-  - uuid: e9979910-79d1-4621-a93c-b2a579c44ba7
-    server: 104.16.86.73
-    name: 8406a2dfbf9046c1a32d55898e5b3ed4_@_@meli_proxyy
-    type: vless
-    port: 8880
-    network: ws
-    tls: false
-    udp: false
-    client-fingerprint: chrome
-    fingerprint: ""
-    ws-opts:
-      path: /J5aLQOY1R9ONWYCM?ed=2
-  - uuid: 7e948e09-fa6f-4b8e-8c5d-181fa15fbec5
-    server: 172.67.141.140
-    name: 3196fc09fa26441599d8dc2e6d608ddc_@_@meli_proxyy
-    type: vless
-    port: 8880
-    network: ws
-    tls: false
-    udp: false
-    client-fingerprint: randomized
-    servername: 8IzcpZflHzz4bVc0fW15f5O126R-WGPG.hEKOp71365.wOrkerS.DEv
-    fingerprint: ""
-    ws-opts:
-      headers:
-        host: 8IzcpZflHzz4bVc0fW15f5O126R-WGPG.hEKOp71365.wOrkerS.DEv
-      path: /QaaLdIiGgWNoIxOF?ed=2560
-  - uuid: e9979910-79d1-4621-a93c-b2a579c44ba7
-    server: 104.16.85.3
-    name: 369361f26fb64865b7ee476e85e03e93_@_@meli_proxyy
-    type: vless
-    port: 8880
-    network: ws
-    tls: false
-    udp: false
-    client-fingerprint: chrome
-    fingerprint: ""
-    ws-opts:
-      path: /6TvG8D6HimXKgdp2?ed=#Join---v2ray_configs_pools?ed=2560
-  - uuid: 90c7ad5e-cd15-4314-b39b-aeabd397d592
-    server: www.visa.com.sg
-    name: 499d9f7f884141a18f0da726319fd983_@_@meli_proxyy
-    type: vless
-    port: 2087
-    network: ws
-    tls: true
-    udp: false
-    client-fingerprint: random
-    servername: vl.hongkong6.qzz.io
-    fingerprint: ""
-    ws-opts:
-      headers:
-        host: vl.hongkong6.qzz.io
-      path: /?ed=2560
-  - uuid: 30f2d443-af46-4dd6-83c9-b5e17299ebd2
-    server: 104.26.15.69
-    name: 53e589a908274a1e8016f2e26a210243_@_@meli_proxyy
-    type: vless
-    port: 2096
-    network: ws
-    tls: true
-    udp: false
-    client-fingerprint: randomized
-    servername: carlotta.shoorekeeper.cloudns.org
-    fingerprint: ""
-    ws-opts:
-      headers:
-        host: carlotta.shoorekeeper.cloudns.org
-      path: /?ed=2560
-  - uuid: 2036e2c3-18a5-4eed-9db4-f91a7f02c7d5
-    server: 104.21.96.1
-    name: bce951bb224e49a1ba815e63728a7b3c_@_@meli_proxyy
-    type: vless
-    port: 80
-    network: ws
-    tls: false
-    udp: false
-    client-fingerprint: chrome
-    fingerprint: ""
-    ws-opts:
-      path: /193.123.81.105=443
-  - uuid: 376734bc-4db8-4317-b451-af0262cb01c7
-    server: 160.153.0.153
-    name: df8a2f33daa04acb8e5a83fe6d07ff33_@_@meli_proxyy
-    type: vless
-    port: 8443
-    network: ws
-    tls: true
-    udp: false
-    client-fingerprint: randomized
-    servername: InviNCIble.FAfA20.shOP
-    fingerprint: ""
-    ws-opts:
-      headers:
-        host: InviNCIble.FAfA20.shOP
-      path: /KvNugxSUpljMOjgF/NzguNDcuMTU3LjY=?ed=#Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560
-  - uuid: 75fde681-ec64-4654-86fa-30732e8e179c
-    server: 172.67.92.147
-    name: 097b3a64af14471f98f10e6f4c253d89_@_@meli_proxyy
-    type: vless
-    port: 443
-    network: ws
-    tls: true
-    udp: false
-    client-fingerprint: chrome
-    servername: NGINX.NSCl.IR
-    fingerprint: ""
-    ws-opts:
-      headers:
-        host: NGINX.NSCl.IR
-      path: /assets#Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560
-  - uuid: e4824193-4f54-453b-d037-88368e85ef0e
-    server: 45.82.251.93
-    name: 45a10bb9b23b48188b559f3da8fecf0b_@_@meli_proxyy
-    type: vless
-    port: 8880
-    network: grpc
-    tls: false
-    udp: false
-    client-fingerprint: chrome
-    fingerprint: ""
-  - uuid: 004ba5d4-d448-4960-a762-e5190ab415f2
-    server: 104.26.6.18
-    name: 0d15f52342ab48a6908fa3bfa61443dc_@_@meli_proxyy`
-    type: vless
-    port: 443
-    network: ws
-    tls: true
-    udp: false
-    client-fingerprint: random
-    servername: albedoalbedochan.violetchaan.ip-ddns.com
-    fingerprint: ""
-    ws-opts:
-      headers:
-        host: albedoalbedochan.violetchaan.ip-ddns.com
-      path: /?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560
-  - uuid: e9979910-79d1-4621-a93c-b2a579c44ba7
-    server: 104.16.69.162
-    name: 82abd7dfd9f247aaa7916d94f633d754_@_%40NpvV2rayFilTer
-    type: vless
-    port: 8880
-    network: ws
-    tls: false
-    udp: false
-    client-fingerprint: chrome
-    fingerprint: ""
-    ws-opts:
-      path: /fgvtHUpS6R8Rv8s5?ed=2560
-  - uuid: 9e769ce1-34be-4e3f-b0a6-823f30eb8f69
-    server: 104.17.147.22
-    name: 7fe6302be2b247beb41911a3f142fda1_@_%40V2ray1_Ng`
-    type: vless
-    port: 2087
-    network: ws
-    tls: true
-    udp: false
-    client-fingerprint: chrome
-    servername: smart.v2plusify.org
-    fingerprint: ""
-    ws-opts:
-      headers:
-        host: smart.v2plusify.org
-      path: /
-  - uuid: 3da5d27f-08d0-4078-f890-cf950ecb1708
-    cipher: auto
-    alterId: 0
-    server: 104.17.121.140
-    name: d2c07c04462c4b2c860341bd7ba1d7a4_@_🇸🇬[openproxylist.com] vmess-SG
-    type: vmess
-    port: 8443
-    network: ws
-    tls: true
-    udp: false
-    client-fingerprint: chrome
-    fingerprint: ""
-    ws-opts:
-      path: /
-  - uuid: 9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c
-    server: 104.19.245.206
-    name: edff4e28e432467c89648ba0032172b4_@_%40`
-    type: vless
-    port: 443
-    network: ws
-    tls: true
-    udp: false
-    client-fingerprint: random
-    servername: kawaiifreevpn-7ds.pages.dev
-    fingerprint: ""
-    ws-opts:
-      headers:
-        host: kawaiifreevpn-7ds.pages.dev
-      path: /?ed=2560
-  - uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
-    server: 15.236.166.144
-    name: e5222ebb0f814f99a28e56e13e9ff0ef_@_@VlessConfig 🇨🇵
-    type: vless
-    port: 22224
-    network: ws
-    tls: true
-    udp: false
-    client-fingerprint: chrome
-    servername: trojan.burgerip.co.uk
-    fingerprint: ""
-    ws-opts:
-      headers:
-        host: trojan.burgerip.co.uk
-      path: /telegram-channel-vlessconfig
-  - uuid: 16d7a04d-e6f4-479f-8914-80d3817317f9
-    server: 104.21.17.92
-    name: 025ccc94f6b74d8ba5b4c43c61232bdb_@_%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-    type: vless
-    port: 443
-    network: ws
-    tls: true
-    udp: false
-    client-fingerprint: chrome
-    servername: ed19-dc7.pages.dev
-    fingerprint: ""
-    ws-opts:
-      headers:
-        host: ed19-dc7.pages.dev
-      path: /azarbayjab1.tab.net?ed=2560
-  - uuid: 3c36eadb-747a-4166-8db0-23fec9883ea2
-    server: 104.27.62.243
-    name: d389017c8b664d6d90a11cc23d2455ca_@_%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-    type: vless
-    port: 443
-    network: ws
-    tls: true
-    udp: false
-    client-fingerprint: firefox
-    servername: HarmonY-427.pages.DEV
-    fingerprint: ""
-    ws-opts:
-      headers:
-        host: HarmonY-427.pages.DEV
-      path: /?ed=2048
-  - uuid: f278037e-ce36-4634-9b4d-fca93e345a35
-    server: 104.16.191.195
-    name: 0fbeb54794e84d92890c8528bf50381a_@_%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-    type: vless
-    port: 80
-    network: ws
-    tls: false
-    udp: false
-    client-fingerprint: random
-    servername: barayeiran.mahiozonboroon.qzz.io
-    fingerprint: ""
-    ws-opts:
-      headers:
-        host: barayeiran.mahiozonboroon.qzz.io
-      path: /vpnowl-vpnowl-vpnowl-vpnowl?ed=2560
-  - uuid: cac07fc1-9c38-42af-b26f-421eaca2cd65
-    server: 94.183.158.13
-    name: 894fb8638ebb4464ab86effb739238f0_@_Channel%20id%3A%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
-    type: vless
-    port: 1190
-    network: ws
-    tls: false
-    udp: false
-    client-fingerprint: chrome
-    fingerprint: ""
-    ws-opts:
-      path: /?ed=2560
-  - uuid: f278037e-ce36-4634-9b4d-fca93e345a35
-    server: 104.16.228.91
-    name: b69bbc742d5e4bb6965513be3d81b41e_@_%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-    type: vless
-    port: 80
-    network: ws
-    tls: false
-    udp: false
-    client-fingerprint: random
-    servername: barayeiran.mahiozonboroon.qzz.io
-    fingerprint: ""
-    ws-opts:
-      headers:
-        host: barayeiran.mahiozonboroon.qzz.io
-      path: /vpnowl-vpnowl-vpnowl-vpnowl?ed=2560
-  - uuid: e9979910-79d1-4621-a93c-b2a579c44ba7
-    server: 168.100.6.100
-    name: 171cdba4da3e4c5d8f4d91a6e3ab5799_@_%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-    type: vless
-    port: 8880
-    network: ws
-    tls: false
-    udp: false
-    client-fingerprint: chrome
-    fingerprint: ""
-    ws-opts:
-      path: /1ycR2zb3KeELWRha
-  - uuid: e9979910-79d1-4621-a93c-b2a579c44ba7
-    server: 185.148.104.141
-    name: 86b51589b0bb4d3c9e48d6d4bb6f2f71_@_%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
-    type: vless
-    port: 8880
-    network: ws
-    tls: false
-    udp: false
-    client-fingerprint: chrome
-    fingerprint: ""
-    ws-opts:
-      path: /Etb1L6YUdZFZuTOr?ed=2560
-  - uuid: e9979910-79d1-4621-a93c-b2a579c44ba7
-    server: 159.246.55.6
-    name: 1db229f79d734485a1cf05a99eacd9a2_@_%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-    type: vless
-    port: 8880
-    network: ws
-    tls: false
-    udp: false
-    client-fingerprint: chrome
-    fingerprint: ""
-    ws-opts:
-      path: /Etb1L6YUdZFZuTOr?ed=2560
-  - uuid: e9979910-79d1-4621-a93c-b2a579c44ba7
-    server: 45.131.209.36
-    name: 076c10661feb4e42bf894ab2452925ec_@_%40ShadowProxy66%20%F0%9F%87%A7%F0%9F%87%BF
-    type: vless
-    port: 8880
-    network: ws
-    tls: false
-    udp: false
-    client-fingerprint: chrome
-    fingerprint: ""
-    ws-opts:
-      path: /J5aLQOY1R9ONWYCM
-  - uuid: e9979910-79d1-4621-a93c-b2a579c44ba7
-    server: 198.62.62.175
-    name: d4c043f4a68e4cd79eed9245841f32c2_@_%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8```
-    type: vless
-    port: 8880
-    network: ws
-    tls: false
-    udp: false
-    client-fingerprint: chrome
-    fingerprint: ""
-    ws-opts:
-      path: /J5aLQOY1R9ONWYCM?ed=2560
-  - uuid: 5c105446-0e06-48ad-e3d0-6ccc3f97a574
-    server: 185.209.21.36
-    name: dbb8f90993154944bf160ab04dbc5939_@_@meli_proxyy
-    type: vless
-    port: 40887
-    network: tcp
-    tls: false
-    udp: false
-    client-fingerprint: chrome
-    fingerprint: ""
-  - uuid: 42f64a47-7b67-417c-8445-e5a823c9ec4a
-    server: 185.209.21.36
-    name: f8abba11b59946baac736d4035bd068d_@_@meli_proxyy`
-    type: vless
-    port: 41569
-    network: ws
-    tls: false
-    udp: false
-    client-fingerprint: chrome
-    fingerprint: ""
-    ws-opts:
-      path: /
-  - uuid: e84de5d0-f69c-454a-a61b-bceae745e14f
-    server: 151.101.194.133
-    name: 8fbe8d3f0bd94154b767f7781afd4daf_@_@Hope_Net-join-us-on-Telegram`
-    type: vless
-    port: 443
-    network: ws
-    tls: true
-    udp: false
-    client-fingerprint: chrome
-    servername: purina.rs
-    fingerprint: ""
-    ws-opts:
-      headers:
-        host: purina.rs
-      path: /
-  - uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-    server: cloudflare.182682.xyz
-    name: f95367004e0e496dbddc57eb0817b83b_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
-    type: vless
-    port: 443
-    network: ws
-    tls: true
-    udp: false
-    client-fingerprint: chrome
-    servername: test.saas.cname.123153.xyz
-    fingerprint: ""
-    ws-opts:
-      headers:
-        host: test.saas.cname.123153.xyz
-      path: /snippets
   - uuid: 4ad29f1b-2cea-4ddc-b856-fab1ff141ac6
     server: brilliant-knowledge.seotoolsforyou.co.uk
-    name: c2a36af0a7134c8785cceb8e949101fb_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: 797370818d014adbb9e378c4ee14db37_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 80
     network: ws
@@ -461,7 +15,7 @@ proxies:
     cipher: auto
     alterId: 0
     server: 103.38.83.253
-    name: d4cbe2900b5b407a8eee839435adfa21_@_🅼🅴🅷🅳🅸
+    name: bcde94e5877a4bf8ab04ea6edb25936a_@_🅼🅴🅷🅳🅸
     type: vmess
     port: 37122
     network: ws
@@ -473,7 +27,7 @@ proxies:
       path: /
   - uuid: 8495462c-1140-48ac-9331-fdb8e1fde8fe
     server: ipw.gfdv54cvghhgfhgj-njhgj64.info
-    name: 659e5318282c479188cc193e9fd60fe9_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: 858b8bbcb9dc4a1e9144cb0562cd0077_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 443
     network: ws
@@ -490,7 +44,7 @@ proxies:
     cipher: auto
     alterId: 0
     server: 118.43.158.220
-    name: a9cb597dfffe41be96687c794e35fc41_@_🅼🅴🅷🅳🅸
+    name: 754d6455a9ce403b80992d59175ebe3a_@_🅼🅴🅷🅳🅸
     type: vmess
     port: 20521
     network: ws
@@ -502,7 +56,7 @@ proxies:
       path: /
   - uuid: 82cdcdf0-e772-4d9a-b0a2-d6b605572ac1
     server: moody-lock.seotoolsforyou.co.uk
-    name: 1e3327a1b80b4d9ab87c0bf793ab2b94_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: 90b236e87d414b0e810e7ff2e31daf55_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 80
     network: ws
@@ -514,7 +68,7 @@ proxies:
       path: /
   - uuid: 9c7b6571-bf05-4072-98c3-fc8bec98551b
     server: 0.0.0.einetwork.news
-    name: ee828e3ba80545979b9e54f15fa575a9_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: 91f4a58d1ba54e91a37e40c36d3d0e33_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 8443
     network: ws
@@ -529,7 +83,7 @@ proxies:
       path: Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram
   - uuid: 5139af95-a453-46c6-831a-a532b6b51305
     server: deep-radio.seotoolsforyou.co.uk
-    name: 58f57d68f5a3450aa314ad45c7d4a18d_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: 29ab9ff873974667a02a0856099dae7e_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 80
     network: ws
@@ -541,7 +95,7 @@ proxies:
       path: /
   - uuid: ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4
     server: www.speedtest.net
-    name: 6a163346c7634426830f42886bf15f1d_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: b5c465cca044404ba2afea45c71840ef_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 8443
     network: ws
@@ -556,7 +110,7 @@ proxies:
       path: /
   - uuid: 561623c8-4983-44d3-a6ef-92b803a74ee8
     server: obedient-menu.seotoolsforyou.co.uk
-    name: 93b287044dcf411a88c5502f4557a53a_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: a5405df5bf194ddcb54b884eb0bf13a4_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 80
     network: ws
@@ -568,7 +122,7 @@ proxies:
       path: /
   - uuid: 19e70f3b-8c62-42d7-b8a2-381e086a1397
     server: ipw.gfdv54cvghhgfhgj-njhgj64.info
-    name: 75462edbcdf74fc5abadbcd8a4c3c114_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: f3d7fd55572a403c979a8ceefff71437_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 443
     network: ws
@@ -583,7 +137,7 @@ proxies:
       path: /nqbispws
   - uuid: 98371613-b71d-4185-9e8a-eb7ba73373b4
     server: edt-f5k.pages.dev
-    name: 78383bef646748fd9832f1d47784915a_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: d008facfdd75410d906ca77970536571_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 443
     network: ws
@@ -598,7 +152,7 @@ proxies:
       path: /?ed=2560
   - uuid: 101e6a7d-7d10-4859-a626-8a76daab4547
     server: openai.com
-    name: 6b4c9d49bd0b47a69d9ae4e3a2ca9b69_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8```
+    name: 624b3864f21b44ebb138dc450ba330fd_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8```
     type: vless
     port: 443
     network: ws
@@ -613,7 +167,7 @@ proxies:
       path: /?ed=2560
   - uuid: 3cad733b-3526-476b-adf5-b7cbdd33dc6c
     server: beloved-failure.seotoolsforyou.co.uk
-    name: 641a5d5095134a9d90792cf6985b82c2_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: 69bfd7ec908e4c53aeb99aab27b9884c_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 80
     network: ws
@@ -625,7 +179,7 @@ proxies:
       path: /
   - uuid: bd9b0366-e5dd-4665-bd5b-9896bc7327ae
     server: modern-promise.seotoolsforyou.co.uk
-    name: 613c636d9313432b9691788963ce2e2f_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: d810e1369dba4df4b59e62a5f23e1551_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 80
     network: ws
@@ -637,7 +191,7 @@ proxies:
       path: /
   - uuid: 34797f17-09a1-400c-9f4b-275718d62a0f
     server: brainy-party.seotoolsforyou.co.uk
-    name: fd9bdca1c2014e9c82aefe90344432f1_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: 6a21b1b65bcc4753891692c391fc962e_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 80
     network: ws
@@ -649,7 +203,7 @@ proxies:
       path: /
   - uuid: 935c990a-9bcc-484b-86a2-2a402f9ad1d4
     server: grumpy-building.seotoolsforyou.co.uk
-    name: fc64d128ddd7444c877e25dbc55a19f8_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: a8fde81191db4ecb9a9054ed42f51c76_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 80
     network: ws
@@ -660,7 +214,7 @@ proxies:
     ws-opts:
       path: /
   - server: aio.zipzap.biz.id
-    name: bb8753a5680f4982aa8ae1b6e267d9fa_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: 467bcac5eedb456ea1a03ae143c53b00_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: trojan
     port: 443
     password: f282b878-8711-45a1-8c69-5564172123c1
@@ -669,7 +223,7 @@ proxies:
     cipher: auto
     alterId: 0
     server: 2.188.219.43
-    name: 4f286df83ff04ce7b552adca16e78308_@_🅼🅴🅷🅳🅸
+    name: 96d7531c393b48a1a74eb658c53c92d6_@_🅼🅴🅷🅳🅸
     type: vmess
     port: 8443
     network: ws
@@ -681,7 +235,7 @@ proxies:
       path: /
   - uuid: 9570a079-f83f-4454-88d0-884057c57a35
     server: fruitful-exchange.seotoolsforyou.co.uk
-    name: 5a2cdbcb72f54b1fafe54e4a71598b4b_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: ffc1beb4df8948b2b3e16da1474f25ef_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 80
     network: ws
@@ -693,7 +247,7 @@ proxies:
       path: /
   - uuid: 52adc6ba-b1c7-4541-a594-08fc698be640
     server: grounded-brother.seotoolsforyou.co.uk
-    name: faa0ed6ad9434395a1a3d72f60c20805_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: 399f356eb1c64f1ba4c623257ade58e0_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 80
     network: ws
@@ -705,7 +259,7 @@ proxies:
       path: /
   - uuid: c98a16e4-0dc5-42f0-b3db-30f04525c123
     server: 103.160.204.50
-    name: 415e7adcc265416e95ed76f1ec2a1d96_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: 8c959c3ffb6948e598902ea2b312df5a_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 443
     network: ws
@@ -720,7 +274,7 @@ proxies:
       path: /?ed=2560
   - uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93
     server: ipw.gfdv54cvghhgfhgj-njhgj64.info
-    name: 64492d6519dd43ef85df35fcc5ae92d8_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: 3bd91e3305d34013a5756b3889fcab5e_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 2096
     network: ws
@@ -737,7 +291,7 @@ proxies:
     cipher: auto
     alterId: 0
     server: 47.79.41.14
-    name: 919705e4987a4e34ac61ead222a8fa9a_@_🅼🅴🅷🅳🅸
+    name: 3d04092afe374302bc2573cfe9c8bbb1_@_🅼🅴🅷🅳🅸
     type: vmess
     port: 15924
     network: ws
@@ -751,7 +305,7 @@ proxies:
     cipher: auto
     alterId: 0
     server: 104.25.174.85
-    name: 667b52a9f59f4819ab0a59d3d358812f_@_🅼🅴🅷🅳🅸
+    name: 1f00f630c6a047dba9192714c1716f4e_@_🅼🅴🅷🅳🅸
     type: vmess
     port: 443
     network: ws
@@ -768,7 +322,7 @@ proxies:
     cipher: auto
     alterId: 0
     server: 141.101.113.6
-    name: e1d9888edebe48068bb4bcc0d90f6eb8_@_🅼🅴🅷🅳🅸
+    name: 35a041bd6ccd4a008f88e098a9f6797e_@_🅼🅴🅷🅳🅸
     type: vmess
     port: 443
     network: ws
@@ -785,7 +339,7 @@ proxies:
     cipher: auto
     alterId: 0
     server: 210.3.159.150
-    name: cbb6e4f8557f4c5c88df4cc191a02a70_@_🅼🅴🅷🅳🅸
+    name: 0808153bfc8b4e40b7ad5142c2ee441e_@_🅼🅴🅷🅳🅸
     type: vmess
     port: 42717
     network: ws
@@ -797,7 +351,7 @@ proxies:
       path: /
   - uuid: 1d0dfde1-9f18-4557-9af8-4f3124ee5dcd
     server: wild-bird.seotoolsforyou.co.uk
-    name: 1fb2dc2eded7417db33db2e3dc87851e_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: 06de2c10caf84fbaabe2a962a1b3cf66_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 80
     network: ws
@@ -809,7 +363,7 @@ proxies:
       path: /
   - uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
     server: 25.129.199.156
-    name: 269a67c28c6349c2b471c5ce6b30e095_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: 01ff2dbab46f4aa28e923debb2f5c0a0_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 8880
     network: ws
@@ -824,7 +378,7 @@ proxies:
       path: /
   - uuid: d03d8815-a06f-408f-a62f-6c84869b96a9
     server: elegant-corporation.seotoolsforyou.co.uk
-    name: d1394719e8084ee39e557b5d815435d0_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: 63bfe99746e74fd0b4c7c9c54e9578a4_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 80
     network: ws
@@ -836,7 +390,7 @@ proxies:
       path: /?--@FREEV2RNG--Bia-FREEV2rng--Kanal-@FREEv2RNG--
   - uuid: 7094df26-af60-41c4-afac-857060d1bab0
     server: jealous-competition.seotoolsforyou.co.uk
-    name: 4de1ffbc2b954f678369717cab2748fa_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: 6b10569ec42b4b388dad095cddd99f3f_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 80
     network: ws
@@ -848,7 +402,7 @@ proxies:
       path: /?serverrrVPNTELEGRAM---_@vpnserverrr_@vpnserverrr_@vpnserverrr_@vpnserverrr_@vpnserverrr
   - uuid: edb4c373-ac92-4430-8f42-94439ca829b9
     server: magical-fish.seotoolsforyou.co.uk
-    name: 5f7eddf41a974c4389ffefdf35d23209_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: 09b9f9221cb44c2fb51b6ce1e9ac9c3c_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 80
     network: ws
@@ -860,7 +414,7 @@ proxies:
       path: /?--/V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS
   - uuid: 6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c
     server: wonderful-degree.seotoolsforyou.co.uk
-    name: c5073980f0e449c8aba325eb51f9ae47_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8```
+    name: 3b21cc3239534ed095ec48c7b11605b6_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8```
     type: vless
     port: 80
     network: ws
@@ -872,7 +426,7 @@ proxies:
       path: /
   - uuid: 30f2d443-af46-4dd6-83c9-b5e17299ebd2
     server: 104.26.14.69
-    name: ba4527e157c04ae48de5d237ebc398dc_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: e4162eddca9c48489ba70b5fb7f74df8_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 2096
     network: ws
@@ -887,7 +441,7 @@ proxies:
       path: /
   - uuid: c313c27c-97ff-45ed-ab5c-64641af5debc
     server: fierce-data.seotoolsforyou.co.uk
-    name: 707b930a2c86453781619c6b1cf0e4a9_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    name: 99320033b72445b89a3ec60d51521257_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
     type: vless
     port: 80
     network: ws
@@ -897,805 +451,102 @@ proxies:
     fingerprint: ""
     ws-opts:
       path: /
-mixed-port: 7897
-allow-lan: true
-mode: rule
-log-level: warning
-ipv6: false
-find-process-mode: strict
-profile:
-  store-selected: true
-  store-fake-ip: true
-unified-delay: true
-tcp-concurrent: true
-global-client-fingerprint: chrome
-sniffer:
-  enable: true
-  sniff:
-    HTTP:
-      ports: [ 80, 8080-8880 ]
-      override-destination: true
-    TLS:
-      ports: [ 443, 8443 ]
-    QUIC:
-      ports: [ 443, 8443 ]
-  skip-domain:
-    - Mijia Cloud
-    - +.push.apple.com
-tun:
-  enable: true
-  stack: system
-  device: tun0
-  dns-hijack:
-    - any:53
-    - tcp://any:53
-  auto-route: true
-  auto-detect-interface: true
-  strict-route: true
-  route-exclude-address: [ ]
-dns:
-  enable: true
-  prefer-h3: true
-  ipv6: false
-  enhanced-mode: fake-ip
-  fake-ip-range: 198.18.0.1/16
-  nameserver:
-    - https://223.5.5.5/dns-query
-    - https://doh.pub/dns-query
-  proxy-server-nameserver:
-    - https://223.5.5.5/dns-query
-    - https://doh.pub/dns-query
-  fake-ip-filter:
-    - +.+m2m
-    - +.$injections.adguard.org
-    - +.$local.adguard.org
-    - +.+bogon
-    - +.+lan
-    - +.+local
-    - +.+internal
-    - +.+localdomain
-    - +.home.arpa
-    - dns.msftncsi.com
-    - "*.srv.nintendo.net"
-    - "*.stun.playstation.net"
-    - xbox.*.microsoft.com
-    - "*.xboxlive.com"
-    - "*.turn.twilio.com"
-    - "*.stun.twilio.com"
-    - stun.syncthing.net
-    - stun.*
-    - "*.sslip.io"
-    - "*.nip.io"
-  nameserver-policy:
-    dns.alidns.com: quic://223.5.5.5:853
-    doh.pub: https://1.12.12.12/dns-query
-    doh.360.cn: 101.198.198.198
-    +.uc.cn: quic://dns.alidns.com:853
-    +.alibaba.com: quic://dns.alidns.com:853
-    "*.alicdn.com": quic://dns.alidns.com:853
-    "*.ialicdn.com": quic://dns.alidns.com:853
-    "*.myalicdn.com": quic://dns.alidns.com:853
-    "*.alidns.com": quic://dns.alidns.com:853
-    "*.aliimg.com": quic://dns.alidns.com:853
-    +.aliyun.com: quic://dns.alidns.com:853
-    "*.aliyuncs.com": quic://dns.alidns.com:853
-    "*.alikunlun.com": quic://dns.alidns.com:853
-    "*.alikunlun.net": quic://dns.alidns.com:853
-    "*.cdngslb.com": quic://dns.alidns.com:853
-    +.alipay.com: quic://dns.alidns.com:853
-    +.alipay.cn: quic://dns.alidns.com:853
-    +.alipay.com.cn: quic://dns.alidns.com:853
-    "*.alipayobjects.com": quic://dns.alidns.com:853
-    +.alibaba-inc.com: quic://dns.alidns.com:853
-    "*.alibabausercontent.com": quic://dns.alidns.com:853
-    "*.alibabadns.com": quic://dns.alidns.com:853
-    +.alibabachengdun.com: quic://dns.alidns.com:853
-    +.alicloudccp.com: quic://dns.alidns.com:853
-    +.alipan.com: quic://dns.alidns.com:853
-    +.aliyundrive.com: quic://dns.alidns.com:853
-    +.aliyundrive.net: quic://dns.alidns.com:853
-    +.cainiao.com: quic://dns.alidns.com:853
-    +.cainiao.com.cn: quic://dns.alidns.com:853
-    +.cainiaoyizhan.com: quic://dns.alidns.com:853
-    +.guoguo-app.com: quic://dns.alidns.com:853
-    +.etao.com: quic://dns.alidns.com:853
-    +.yitao.com: quic://dns.alidns.com:853
-    +.1688.com: quic://dns.alidns.com:853
-    +.amap.com: quic://dns.alidns.com:853
-    +.gaode.com: quic://dns.alidns.com:853
-    +.autonavi.com: quic://dns.alidns.com:853
-    +.dingtalk.com: quic://dns.alidns.com:853
-    +.mxhichina.com: quic://dns.alidns.com:853
-    +.soku.com: quic://dns.alidns.com:853
-    +.tb.cn: quic://dns.alidns.com:853
-    "*.tbcdn.cn": quic://dns.alidns.com:853
-    +.taobao.com: quic://dns.alidns.com:853
-    "*.taobaocdn.com": quic://dns.alidns.com:853
-    "*.tbcache.com": quic://dns.alidns.com:853
-    +.tmall.com: quic://dns.alidns.com:853
-    +.goofish.com: quic://dns.alidns.com:853
-    +.xiami.com: quic://dns.alidns.com:853
-    +.xiami.net: quic://dns.alidns.com:853
-    "*.ykimg.com": quic://dns.alidns.com:853
-    +.youku.com: quic://dns.alidns.com:853
-    +.tudou.com: quic://dns.alidns.com:853
-    "*.cibntv.net": quic://dns.alidns.com:853
-    +.ele.me: quic://dns.alidns.com:853
-    "*.elemecdn.com": quic://dns.alidns.com:853
-    +.feizhu.com: quic://dns.alidns.com:853
-    +.taopiaopiao.com: quic://dns.alidns.com:853
-    +.fliggy.com: quic://dns.alidns.com:853
-    +.koubei.com: quic://dns.alidns.com:853
-    +.mybank.cn: quic://dns.alidns.com:853
-    +.mmstat.com: quic://dns.alidns.com:853
-    +.uczzd.cn: quic://dns.alidns.com:853
-    +.iconfont.cn: quic://dns.alidns.com:853
-    +.freshhema.com: quic://dns.alidns.com:853
-    +.hemamax.com: quic://dns.alidns.com:853
-    +.hemaos.com: quic://dns.alidns.com:853
-    +.hemashare.cn: quic://dns.alidns.com:853
-    +.shyhhema.com: quic://dns.alidns.com:853
-    +.sm.cn: quic://dns.alidns.com:853
-    +.npmmirror.com: quic://dns.alidns.com:853
-    +.alios.cn: quic://dns.alidns.com:853
-    +.wandoujia.com: quic://dns.alidns.com:853
-    +.aligames.com: quic://dns.alidns.com:853
-    +.25pp.com: quic://dns.alidns.com:853
-    "*.aliapp.org": quic://dns.alidns.com:853
-    +.tanx.com: quic://dns.alidns.com:853
-    +.hellobike.com: quic://dns.alidns.com:853
-    "*.hichina.com": quic://dns.alidns.com:853
-    "*.yunos.com": quic://dns.alidns.com:853
-    "*.nlark.com": quic://dns.alidns.com:853
-    "*.yuque.com": quic://dns.alidns.com:853
-    upos-sz-mirrorali.bilivideo.com: quic://dns.alidns.com:853
-    upos-sz-estgoss.bilivideo.com: quic://dns.alidns.com:853
-    ali-safety-video.acfun.cn: quic://dns.alidns.com:853
-    "*.qcloud.com": https://doh.pub/dns-query
-    "*.gtimg.cn": https://doh.pub/dns-query
-    "*.gtimg.com": https://doh.pub/dns-query
-    "*.gtimg.com.cn": https://doh.pub/dns-query
-    "*.gdtimg.com": https://doh.pub/dns-query
-    "*.idqqimg.com": https://doh.pub/dns-query
-    "*.udqqimg.com": https://doh.pub/dns-query
-    "*.igamecj.com": https://doh.pub/dns-query
-    +.myapp.com: https://doh.pub/dns-query
-    "*.myqcloud.com": https://doh.pub/dns-query
-    +.dnspod.com: https://doh.pub/dns-query
-    "*.qpic.cn": https://doh.pub/dns-query
-    "*.qlogo.cn": https://doh.pub/dns-query
-    +.qq.com: https://doh.pub/dns-query
-    +.qq.com.cn: https://doh.pub/dns-query
-    "*.qqmail.com": https://doh.pub/dns-query
-    +.qzone.com: https://doh.pub/dns-query
-    "*.tencent-cloud.net": https://doh.pub/dns-query
-    "*.tencent-cloud.com": https://doh.pub/dns-query
-    +.tencent.com: https://doh.pub/dns-query
-    +.tencent.com.cn: https://doh.pub/dns-query
-    +.tencentmusic.com: https://doh.pub/dns-query
-    +.weixinbridge.com: https://doh.pub/dns-query
-    +.weixin.com: https://doh.pub/dns-query
-    +.weiyun.com: https://doh.pub/dns-query
-    +.soso.com: https://doh.pub/dns-query
-    +.sogo.com: https://doh.pub/dns-query
-    +.sogou.com: https://doh.pub/dns-query
-    "*.sogoucdn.com": https://doh.pub/dns-query
-    "*.roblox.cn": https://doh.pub/dns-query
-    +.robloxdev.cn: https://doh.pub/dns-query
-    +.wegame.com: https://doh.pub/dns-query
-    +.wegame.com.cn: https://doh.pub/dns-query
-    +.wegameplus.com: https://doh.pub/dns-query
-    +.cdn-go.cn: https://doh.pub/dns-query
-    "*.tencentcs.cn": https://doh.pub/dns-query
-    "*.qcloudimg.com": https://doh.pub/dns-query
-    +.dnspod.cn: https://doh.pub/dns-query
-    +.anticheatexpert.com: https://doh.pub/dns-query
-    url.cn: https://doh.pub/dns-query
-    "*.qlivecdn.com": https://doh.pub/dns-query
-    "*.tcdnlive.com": https://doh.pub/dns-query
-    "*.dnsv1.com": https://doh.pub/dns-query
-    "*.smtcdns.net": https://doh.pub/dns-query
-    +.coding.net: https://doh.pub/dns-query
-    "*.codehub.cn": https://doh.pub/dns-query
-    tx-safety-video.acfun.cn: https://doh.pub/dns-query
-    acg.tv: https://doh.pub/dns-query
-    b23.tv: https://doh.pub/dns-query
-    +.bilibili.cn: https://doh.pub/dns-query
-    +.bilibili.com: https://doh.pub/dns-query
-    "*.acgvideo.com": https://doh.pub/dns-query
-    "*.bilivideo.com": https://doh.pub/dns-query
-    "*.bilivideo.cn": https://doh.pub/dns-query
-    "*.bilivideo.net": https://doh.pub/dns-query
-    "*.hdslb.com": https://doh.pub/dns-query
-    "*.biliimg.com": https://doh.pub/dns-query
-    "*.biliapi.com": https://doh.pub/dns-query
-    "*.biliapi.net": https://doh.pub/dns-query
-    +.biligame.com: https://doh.pub/dns-query
-    "*.biligame.net": https://doh.pub/dns-query
-    +.bilicomic.com: https://doh.pub/dns-query
-    +.bilicomics.com: https://doh.pub/dns-query
-    "*.bilicdn1.com": https://doh.pub/dns-query
-    "*.bulicdn2.com": https://doh.pub/dns-query
-    +.mi.com: https://doh.pub/dns-query
-    +.duokan.com: https://doh.pub/dns-query
-    "*.mi-img.com": https://doh.pub/dns-query
-    "*.mi-idc.com": https://doh.pub/dns-query
-    "*.xiaoaisound.com": https://doh.pub/dns-query
-    "*.xiaomixiaoai.com": https://doh.pub/dns-query
-    "*.mi-fds.com": https://doh.pub/dns-query
-    "*.mifile.cn": https://doh.pub/dns-query
-    "*.mijia.tech": https://doh.pub/dns-query
-    +.miui.com: https://doh.pub/dns-query
-    +.xiaomi.com: https://doh.pub/dns-query
-    +.xiaomi.cn: https://doh.pub/dns-query
-    +.xiaomi.net: https://doh.pub/dns-query
-    +.xiaomiev.com: https://doh.pub/dns-query
-    +.xiaomiyoupin.com: https://doh.pub/dns-query
-    +.gorouter.info: https://doh.pub/dns-query
-    +.bytedance.com: 180.184.2.2
-    "*.bytecdn.cn": 180.184.2.2
-    "*.volccdn.com": 180.184.2.2
-    "*.toutiaoimg.com": 180.184.2.2
-    "*.toutiaoimg.cn": 180.184.2.2
-    "*.toutiaostatic.com": 180.184.2.2
-    "*.toutiaovod.com": 180.184.2.2
-    "*.toutiaocloud.com": 180.184.2.2
-    +.toutiaopage.com: 180.184.2.2
-    +.feiliao.com: 180.184.2.2
-    +.iesdouyin.com: 180.184.2.2
-    "*.pstatp.com": 180.184.2.2
-    +.snssdk.com: 180.184.2.2
-    "*.bytegoofy.com": 180.184.2.2
-    +.toutiao.com: 180.184.2.2
-    +.feishu.cn: 180.184.2.2
-    +.feishu.net: 180.184.2.2
-    "*.feishucdn.com": 180.184.2.2
-    "*.feishupkg.com": 180.184.2.2
-    +.douyin.com: 180.184.2.2
-    "*.douyinpic.com": 180.184.2.2
-    "*.douyinstatic.com": 180.184.2.2
-    "*.douyincdn.com": 180.184.2.2
-    "*.douyinliving.com": 180.184.2.2
-    "*.douyinvod.com": 180.184.2.2
-    +.huoshan.com: 180.184.2.2
-    "*.huoshanstatic.com": 180.184.2.2
-    +.huoshanzhibo.com: 180.184.2.2
-    +.ixigua.com: 180.184.2.2
-    "*.ixiguavideo.com": 180.184.2.2
-    "*.ixgvideo.com": 180.184.2.2
-    "*.byted-static.com": 180.184.2.2
-    +.volces.com: 180.184.2.2
-    +.baike.com: 180.184.2.2
-    "*.zjcdn.com": 180.184.2.2
-    "*.zijieapi.com": 180.184.2.2
-    +.feelgood.cn: 180.184.2.2
-    "*.bytetcc.com": 180.184.2.2
-    "*.bytednsdoc.com": 180.184.2.2
-    "*.byteimg.com": 180.184.2.2
-    "*.byteacctimg.com": 180.184.2.2
-    "*.ibytedapm.com": 180.184.2.2
-    +.oceanengine.com: 180.184.2.2
-    "*.edge-byted.com": 180.184.2.2
-    "*.volcvideo.com": 180.184.2.2
-    "*.bytecdntp.com": 180.184.2.2
-    +.91.com: 180.76.76.76
-    +.hao123.com: 180.76.76.76
-    +.baidu.cn: 180.76.76.76
-    +.baidu.com: 180.76.76.76
-    +.iqiyi.com: 180.76.76.76
-    "*.iqiyipic.com": 180.76.76.76
-    "*.baidubce.com": 180.76.76.76
-    "*.bcelive.com": 180.76.76.76
-    "*.baiducontent.com": 180.76.76.76
-    "*.baidustatic.com": 180.76.76.76
-    "*.bdstatic.com": 180.76.76.76
-    "*.bdimg.com": 180.76.76.76
-    "*.bcebos.com": 180.76.76.76
-    "*.baidupcs.com": 180.76.76.76
-    "*.baidubcr.com": 180.76.76.76
-    "*.yunjiasu-cdn.net": 180.76.76.76
-    +.tieba.com: 180.76.76.76
-    +.xiaodutv.com: 180.76.76.76
-    "*.shifen.com": 180.76.76.76
-    "*.jomodns.com": 180.76.76.76
-    "*.bdydns.com": 180.76.76.76
-    "*.jomoxc.com": 180.76.76.76
-    "*.duapp.com": 180.76.76.76
-    "*.antpcdn.com": 180.76.76.76
-    upos-sz-mirrorbd.bilivideo.com: 180.76.76.76
-    upos-sz-mirrorbos.bilivideo.com: 180.76.76.76
-    "*.qhimg.com": https://doh.360.cn/dns-query
-    "*.qhimgs.com": https://doh.360.cn/dns-query
-    "*.qhimgs?.com": https://doh.360.cn/dns-query
-    "*.qhres.com": https://doh.360.cn/dns-query
-    "*.qhres2.com": https://doh.360.cn/dns-query
-    "*.qhmsg.com": https://doh.360.cn/dns-query
-    "*.qhstatic.com": https://doh.360.cn/dns-query
-    "*.qhupdate.com": https://doh.360.cn/dns-query
-    "*.qihucdn.com": https://doh.360.cn/dns-query
-    +.360.com: https://doh.360.cn/dns-query
-    +.360.cn: https://doh.360.cn/dns-query
-    +.360.net: https://doh.360.cn/dns-query
-    +.360safe.com: https://doh.360.cn/dns-query
-    "*.360tpcdn.com": https://doh.360.cn/dns-query
-    +.360os.com: https://doh.360.cn/dns-query
-    "*.360webcache.com": https://doh.360.cn/dns-query
-    +.360kuai.com: https://doh.360.cn/dns-query
-    +.so.com: https://doh.360.cn/dns-query
-    +.haosou.com: https://doh.360.cn/dns-query
-    +.yunpan.cn: https://doh.360.cn/dns-query
-    +.yunpan.com: https://doh.360.cn/dns-query
-    +.yunpan.com.cn: https://doh.360.cn/dns-query
-    "*.qh-cdn.com": https://doh.360.cn/dns-query
-    +.baomitu.com: https://doh.360.cn/dns-query
-    +.qiku.com: https://doh.360.cn/dns-query
-    +.securelogin.com.cn: system
-    captive.apple.com: system
-    hotspot.cslwifi.com: system
-    "*.m2m": system
-    injections.adguard.org: system
-    local.adguard.org: system
-    "*.bogon": system
-    "*.home": system
-    instant.arubanetworks.com: system
-    setmeup.arubanetworks.com: system
-    router.asus.com: system
-    repeater.asus.com: system
-    +.asusrouter.com: system
-    +.routerlogin.net: system
-    +.routerlogin.com: system
-    +.tplinkwifi.net: system
-    +.tplogin.cn: system
-    +.tplinkap.net: system
-    +.tplinkmodem.net: system
-    +.tplinkplclogin.net: system
-    +.tplinkrepeater.net: system
-    "*.ui.direct": system
-    unifi: system
-    "*.huaweimobilewifi.com": system
-    "*.router": system
-    aterm.me: system
-    console.gl-inet.com: system
-    homerouter.cpe: system
-    mobile.hotspot: system
-    ntt.setup: system
-    pi.hole: system
-    "*.plex.direct": system
-    +.10.in-addr.arpa: system
-    +.16.172.in-addr.arpa: system
-    +.17.172.in-addr.arpa: system
-    +.18.172.in-addr.arpa: system
-    +.19.172.in-addr.arpa: system
-    +.20.172.in-addr.arpa: system
-    +.21.172.in-addr.arpa: system
-    +.22.172.in-addr.arpa: system
-    +.23.172.in-addr.arpa: system
-    +.24.172.in-addr.arpa: system
-    +.25.172.in-addr.arpa: system
-    +.26.172.in-addr.arpa: system
-    +.27.172.in-addr.arpa: system
-    +.28.172.in-addr.arpa: system
-    +.29.172.in-addr.arpa: system
-    +.30.172.in-addr.arpa: system
-    +.31.172.in-addr.arpa: system
-    +.168.192.in-addr.arpa: system
-    +.254.169.in-addr.arpa: system
-    "*.lan": system
-    "*.local": system
-    "*.internal": system
-    "*.localdomain": system
-    +.home.arpa: system
-hosts:
-  dns.alidns.com:
-    - 223.5.5.5
-    - 223.6.6.6
-    - 2400:3200:baba::1
-    - 2400:3200::1
-  doh.pub:
-    - 120.53.53.53
-    - 1.12.12.12
-  cdn.jsdelivr.net: cdn.jsdelivr.net.cdn.cloudflare.net
-
-proxy-groups:
-  - name: 🚀 节点选择
-    type: select
-    proxies: [ ♻️ 自动选择, 🇭🇰 香港节点, 🇨🇳 台湾节点, 🇸🇬 狮城节点, 🇯🇵 日本节点, 🇰🇷 韩国节点, 🇺🇸 美国节点, 🚀 手动切换, DIRECT ]
-
-  - name: 🚀 手动切换
-    include-all: true
-    type: select
-
-  - name: ♻️ 自动选择
-    type: url-test
-    include-all: true
-    interval: 300
-    tolerance: 50
-
-  - name: 📲 电报消息
-    type: select
-    proxies: [ 🚀 节点选择, ♻️ 自动选择, 🇸🇬 狮城节点, 🇭🇰 香港节点, 🇨🇳 台湾节点, 🇯🇵 日本节点, 🇰🇷 韩国节点, 🇺🇸 美国节点, 🚀 手动切换, DIRECT ]
-
-  - name: 💬 Ai平台
-    type: select
-    proxies: [ 🚀 节点选择, ♻️ 自动选择, 🇸🇬 狮城节点, 🇭🇰 香港节点, 🇨🇳 台湾节点, 🇯🇵 日本节点, 🇰🇷 韩国节点, 🇺🇸 美国节点, 🚀 手动切换, DIRECT ]
-
-  - name: 📹️油管视频
-    type: select
-    proxies: [ 🚀 节点选择, ♻️ 自动选择, 🇸🇬 狮城节点, 🇭🇰 香港节点, 🇨🇳 台湾节点, 🇯🇵 日本节点, 🇰🇷 韩国节点, 🇺🇸 美国节点, 🚀 手动切换, DIRECT ]
-
-  - name: 🎥 奈飞视频
-    type: select
-    proxies: [ 🚀 节点选择, ♻️ 自动选择, 🎥 奈飞节点, 🇸🇬 狮城节点, 🇭🇰 香港节点, 🇨🇳 台湾节点, 🇯🇵 日本节点, 🇰🇷 韩国节点, 🇺🇸 美国节点, 🚀 手动切换, DIRECT ]
-
-  - name: 📺 巴哈姆特
-    type: select
-    proxies: [ 🇨🇳 台湾节点, 🚀 节点选择, 🚀 手动切换, DIRECT ]
-
-  - name: 📺 哔哩哔哩
-    type: select
-    proxies: [ 🎯 全球直连, 🇨🇳 台湾节点, 🇭🇰 香港节点 ]
-
-  - name: 🌍 国外媒体
-    type: select
-    proxies: [ 🚀 节点选择, ♻️ 自动选择, 🇭🇰 香港节点, 🇨🇳 台湾节点, 🇸🇬 狮城节点, 🇯🇵 日本节点, 🇰🇷 韩国节点, 🇺🇸 美国节点, 🚀 手动切换, DIRECT ]
-
-  - name: 🌏 国内媒体
-    type: select
-    proxies: [ DIRECT, 🇭🇰 香港节点, 🇨🇳 台湾节点, 🇸🇬 狮城节点, 🇯🇵 日本节点, 🚀 手动切换 ]
-
-  - name: 📢 谷歌FCM
-    type: select
-    proxies: [ DIRECT, 🚀 节点选择, 🇭🇰 香港节点, 🇨🇳 台湾节点, 🇸🇬 狮城节点, 🇯🇵 日本节点, 🇰🇷 韩国节点, 🚀 手动切换 ]
-
-  - name: Ⓜ️ 微软Bing
-    type: select
-    proxies: [ DIRECT, 🚀 节点选择, 🇺🇸 美国节点, 🇭🇰 香港节点, 🇨🇳 台湾节点, 🇸🇬 狮城节点, 🇯🇵 日本节点, 🇰🇷 韩国节点, 🚀 手动切换 ]
-
-  - name: Ⓜ️ 微软云盘
-    type: select
-    proxies: [ DIRECT, 🚀 节点选择, 🇺🇸 美国节点, 🇭🇰 香港节点, 🇨🇳 台湾节点, 🇸🇬 狮城节点, 🇯🇵 日本节点, 🇰🇷 韩国节点, 🚀 手动切换 ]
-
-  - name: Ⓜ️ 微软服务
-    type: select
-    proxies: [ 🚀 节点选择, DIRECT, 🇺🇸 美国节点, 🇭🇰 香港节点, 🇨🇳 台湾节点, 🇸🇬 狮城节点, 🇯🇵 日本节点, 🇰🇷 韩国节点, 🚀 手动切换 ]
-
-  - name: 🍎 苹果服务
-    type: select
-    proxies: [ DIRECT, 🚀 节点选择, 🇺🇸 美国节点, 🇭🇰 香港节点, 🇨🇳 台湾节点, 🇸🇬 狮城节点, 🇯🇵 日本节点, 🇰🇷 韩国节点, 🚀 手动切换 ]
-
-  - name: 🎮 游戏平台
-    type: select
-    proxies: [ DIRECT, 🚀 节点选择, 🇺🇸 美国节点, 🇭🇰 香港节点, 🇨🇳 台湾节点, 🇸🇬 狮城节点, 🇯🇵 日本节点, 🇰🇷 韩国节点, 🚀 手动切换 ]
-
-  - name: 🎶 网易音乐
-    type: select
-    include-all: true
-    filter: (?i)网易|音乐|NetEase|Music
-    proxies: [ DIRECT, 🚀 节点选择, ♻️ 自动选择 ]
-
-  - name: 🎯 全球直连
-    type: select
-    proxies: [ DIRECT, 🚀 节点选择, ♻️ 自动选择 ]
-
-  - name: 🛑 广告拦截
-    type: select
-    proxies: [ REJECT, DIRECT ]
-
-  - name: 🍃 应用净化
-    type: select
-    proxies: [ REJECT, DIRECT ]
-
-  - name: 🐟 漏网之鱼
-    type: select
-    proxies: [ 🚀 节点选择, ♻️ 自动选择, 🇭🇰 香港节点, 🇨🇳 台湾节点, 🇸🇬 狮城节点, 🇯🇵 日本节点, 🇰🇷 韩国节点, 🇺🇸 美国节点, 🚀 手动切换 ]
-
-  - name: 🇭🇰 香港节点
-    include-all: true
-    filter: (?i)港|HK|hk|Hong Kong|HongKong|hongkong
-    type: url-test
-    interval: 300
-    tolerance: 50
-
-  - name: 🇯🇵 日本节点
-    include-all: true
-    filter: (?i)日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan
-    type: url-test
-    interval: 300
-    tolerance: 50
-
-  - name: 🇺🇸 美国节点
-    include-all: true
-    filter: (?i)美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States
-    type: url-test
-    interval: 300
-    tolerance: 50
-
-  - name: 🇨🇳 台湾节点
-    include-all: true
-    filter: (?i)台|新北|彰化|TW|Taiwan
-    type: url-test
-    interval: 300
-    tolerance: 50
-
-  - name: 🇸🇬 狮城节点
-    include-all: true
-    filter: (?i)新加坡|坡|狮城|SG|Singapore
-    type: url-test
-    interval: 300
-    tolerance: 50
-
-  - name: 🇰🇷 韩国节点
-    include-all: true
-    filter: (?i)KR|Korea|KOR|首尔|韩|韓
-    type: url-test
-    interval: 300
-    tolerance: 50
-
-  - name: 🎥 奈飞节点
-    include-all: true
-    filter: (?i)NF|奈飞|解锁|Netflix|NETFLIX|Media
-    type: select
-
-rule-providers:
-  LocalAreaNetwork:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/LocalAreaNetwork.list
-    path: ./ruleset/LocalAreaNetwork.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  UnBan:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/UnBan.list
-    path: ./ruleset/UnBan.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  BanAD:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/BanAD.list
-    path: ./ruleset/BanAD.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  BanProgramAD:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/BanProgramAD.list
-    path: ./ruleset/BanProgramAD.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  GoogleFCM:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/GoogleFCM.list
-    path: ./ruleset/GoogleFCM.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  GoogleCN:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/GoogleCN.list
-    path: ./ruleset/GoogleCN.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  GoogleINTL:
-    url: https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/geolocation-!cn.list
-    path: ./ruleset/GoogleINTL.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  SteamCN:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/SteamCN.list
-    path: ./ruleset/SteamCN.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  Bing:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Bing.list
-    path: ./ruleset/Bing.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  OneDrive:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/OneDrive.list
-    path: ./ruleset/OneDrive.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  Microsoft:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Microsoft.list
-    path: ./ruleset/Microsoft.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  Apple:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Apple.list
-    path: ./ruleset/Apple.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  Telegram:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Telegram.list
-    path: ./ruleset/Telegram.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  AI:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/AI.list
-    path: ./ruleset/AI.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  OpenAi:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/OpenAi.list
-    path: ./ruleset/OpenAi.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  NetEaseMusic:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/NetEaseMusic.list
-    path: ./ruleset/NetEaseMusic.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  Epic:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Epic.list
-    path: ./ruleset/Epic.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  Origin:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Origin.list
-    path: ./ruleset/Origin.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  Sony:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Sony.list
-    path: ./ruleset/Sony.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  Steam:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Steam.list
-    path: ./ruleset/Steam.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  Nintendo:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Nintendo.list
-    path: ./ruleset/Nintendo.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  YouTube:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/YouTube.list
-    path: ./ruleset/YouTube.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  Netflix:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Netflix.list
-    path: ./ruleset/Netflix.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  Bahamut:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Bahamut.list
-    path: ./ruleset/Bahamut.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  BilibiliHMT:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/BilibiliHMT.list
-    path: ./ruleset/BilibiliHMT.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  Bilibili:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Bilibili.list
-    path: ./ruleset/Bilibili.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  ChinaMedia:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaMedia.list
-    path: ./ruleset/ChinaMedia.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  ProxyMedia:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ProxyMedia.list
-    path: ./ruleset/ProxyMedia.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  ProxyGFWlist:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ProxyGFWlist.list
-    path: ./ruleset/ProxyGFWlist.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  ChinaDomain:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaDomain.list
-    path: ./ruleset/ChinaDomain.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  ChinaCompanyIp:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaCompanyIp.list
-    path: ./ruleset/ChinaCompanyIp.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  Download:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Download.list
-    path: ./ruleset/Download.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-
-rules:
-  - PROCESS-NAME,subs-check.exe, 🎯 全球直连
-  - PROCESS-NAME,subs-check, 🎯 全球直连
-  - RULE-SET,LocalAreaNetwork, 🎯 全球直连
-  - RULE-SET,UnBan, 🎯 全球直连
-  - RULE-SET,BanAD,🛑 广告拦截
-  - RULE-SET,BanProgramAD,🍃 应用净化
-  - RULE-SET,GoogleFCM,📢 谷歌FCM
-  - RULE-SET,GoogleCN, 🎯 全球直连
-  - RULE-SET,SteamCN, 🎯 全球直连
-  - RULE-SET,GoogleINTL,🚀 节点选择
-  - RULE-SET,Bing,Ⓜ️ 微软Bing
-  - RULE-SET,OneDrive,Ⓜ️ 微软云盘
-  - RULE-SET,Microsoft,Ⓜ️ 微软服务
-  - RULE-SET,Apple,🍎 苹果服务
-  - RULE-SET,Telegram,📲 电报消息
-  - RULE-SET,AI,💬 Ai平台
-  - RULE-SET,NetEaseMusic,🎶 网易音乐
-  - RULE-SET,Epic,🎮 游戏平台
-  - RULE-SET,Origin,🎮 游戏平台
-  - RULE-SET,Sony,🎮 游戏平台
-  - RULE-SET,Steam,🎮 游戏平台
-  - RULE-SET,Nintendo,🎮 游戏平台
-  - RULE-SET,YouTube,📹️油管视频
-  - RULE-SET,Netflix,🎥 奈飞视频
-  - RULE-SET,Bahamut,📺 巴哈姆特
-  - RULE-SET,BilibiliHMT,📺 哔哩哔哩
-  - RULE-SET,Bilibili,📺 哔哩哔哩
-  - RULE-SET,ChinaMedia,🌏 国内媒体
-  - RULE-SET,ProxyMedia,🌍 国外媒体
-  - RULE-SET,ProxyGFWlist,🚀 节点选择
-  - RULE-SET,ChinaDomain, 🎯 全球直连
-  - RULE-SET,ChinaDomain, 🎯 全球直连
-  - RULE-SET,ChinaCompanyIp, 🎯 全球直连
-  - RULE-SET,Download, 🎯 全球直连
-  - GEOIP,CN, 🎯 全球直连
-  - MATCH,🐟 漏网之鱼
+  - uuid: ec7de7e0-3f09-4ef4-8a34-e441917d65fa
+    server: 172.67.164.5
+    name: 2797347db89a48bfa80c32f291cf2dba_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    type: vless
+    port: 443
+    network: ws
+    tls: true
+    udp: false
+    client-fingerprint: chrome
+    servername: verina.ccantarella.dns-dynamic.net
+    fingerprint: ""
+    ws-opts:
+      headers:
+        host: verina.ccantarella.dns-dynamic.net
+      path: /
+  - uuid: 1dd49fb8-6570-4a2a-a236-f410b63159cf
+    server: obedient-detail.seotoolsforyou.co.uk
+    name: 4410ea775abf481290ab737099e6650f_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    type: vless
+    port: 80
+    network: ws
+    tls: false
+    udp: false
+    client-fingerprint: chrome
+    fingerprint: ""
+    ws-opts:
+      path: /
+  - uuid: ec7de7e0-3f09-4ef4-8a34-e441917d65fa
+    server: 172.67.164.1
+    name: 5c63806c6bbb46ff984a14a5892363b9_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8```
+    type: vless
+    port: 443
+    network: ws
+    tls: true
+    udp: false
+    client-fingerprint: chrome
+    servername: verina.ccantarella.dns-dynamic.net
+    fingerprint: ""
+    ws-opts:
+      headers:
+        host: verina.ccantarella.dns-dynamic.net
+      path: /
+  - uuid: 05020a61-3c0c-4ead-b256-7851ff905a75
+    server: sweet-combination.seotoolsforyou.co.uk
+    name: 8848e2982bbd4190abe102774b0615c8_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    type: vless
+    port: 80
+    network: ws
+    tls: false
+    udp: false
+    client-fingerprint: chrome
+    fingerprint: ""
+    ws-opts:
+      path: /
+  - uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
+    server: 25.25.25.188
+    name: 59560aba801544cd82e82a5cfebad7cd_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    type: vless
+    port: 8880
+    network: ws
+    tls: false
+    udp: false
+    client-fingerprint: chrome
+    servername: Telegram-channel-WangCai2
+    fingerprint: ""
+    ws-opts:
+      headers:
+        host: Telegram-channel-WangCai2
+      path: /
+  - uuid: 30f2d443-af46-4dd6-83c9-b5e17299ebd2
+    server: www.ums.id
+    name: 1d9cfac06a1f43b5ae048ea0baa9d437_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    type: vless
+    port: 443
+    network: ws
+    tls: true
+    udp: false
+    client-fingerprint: chrome
+    servername: carlotta.shoorekeeper.cloudns.org
+    fingerprint: ""
+    ws-opts:
+      headers:
+        host: carlotta.shoorekeeper.cloudns.org
+      path: /
+  - uuid: f690c2da-bdc3-4538-999e-d2bb8a541188
+    server: 104.16.161.143
+    name: 0474bad66992456a8a5aa62b9743402e_@_%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+    type: vless
+    port: 2096
+    network: ws
+    tls: true
+    udp: false
+    client-fingerprint: chrome
+    servername: baomei.pages.dev
+    fingerprint: ""
+    ws-opts:
+      headers:
+        host: baomei.pages.dev
+      path: /?ed
