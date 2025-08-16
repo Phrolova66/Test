@@ -20,13 +20,11 @@ jobs:
 
       - name: Run
         run: |
-          curl -o raw.yaml https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/clash-meta/actives_under_1000ms.yaml
-
           node << 'EOF'
           const YAML = require('yaml');
           const fs = require('fs');
-          const file = fs.readFileSync('raw.yaml', 'utf8');
-          const data = YAML.parse(file);
+          const file = await fetch('https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/clash-meta/actives_under_1000ms.yaml')
+          const data = YAML.parse(file.text());
           fs.writeFileSync('test.yaml', YAML.stringify(data));
           EOF
 
