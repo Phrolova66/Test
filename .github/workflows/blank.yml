@@ -21,11 +21,11 @@ jobs:
       - name: Run
         run: |
           node << 'EOF'
-          const YAML = require('yaml');
-          const fs = require('fs');
+          import YAML from 'yaml'
+          import fs from 'fs'
           const file = await fetch('https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/clash-meta/actives_under_1000ms.yaml')
-          const data = YAML.parse(file.text());
-          fs.writeFileSync('test.yaml', YAML.stringify(data));
+          const data = YAML.parse(file.text())
+          fs.writeFileSync('test.yaml', YAML.stringify(data))
           EOF
 
       - name: Upload
